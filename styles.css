@@ -1,0 +1,129 @@
+*{
+    background-color:black;
+    color:white;
+}
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+}
+nav{
+    font-family: 'Poppins', sans-serif;
+}
+ul{
+    font-family: 'Poppins', sans-serif;
+}
+.form{
+    font-family: 'Poppins', sans-serif;
+    display:flex;
+    flex-direction: column;
+    width:80%;
+    margin-left:auto;
+    margin-right:auto;
+    padding-bottom: 5%;
+    
+}
+#parralax1{
+    background-image: url(Screen-Printing-Adamley-Textiles.png);
+    max-width:100%;
+    min-height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#parralax2{
+    background-image: url(pexels-anna-shvets-5642045.png);
+    max-width: 100%;
+    min-height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#parralax3{
+    background-image: url(pexels-antoni-shkraba-4348401.png);
+    max-width:100%;
+    min-height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#parralax4{
+    background-image: url(pexels-suzy-hazelwood-1232131.png);
+    max-width:100%;
+    min-height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.imgscr{
+    max-width:40%;
+    object-fit: contain;
+}
+#hoodie{
+    max-width:40%;
+    object-fit: contain;
+}
+nav{
+    display:flex;
+    justify-content: space-around;
+    font-size: 24px;
+    padding-bottom:12px;
+    border-bottom: solid white 1px;
+}
+#disclaimer{
+    display:flex;
+    justify-content: flex-end;
+    color:#343434;
+    background-color: #ec5c24;
+    padding-right: 5%;
+}
+header{
+    background-color: #ec5c24;
+}
+.wordmrk{
+    font-size:80px;
+    display:flex;
+    justify-content: center;
+    background-color: #ec5c24;
+    margin-bottom: -20px;
+}
+.intro{
+    display:flex;
+}
+h1{
+    font-size:64px;
+}
+p{
+    font-size:20px;
+}
+.services{
+    display:flex;
+}
+#funds{
+    display:flex;
+    flex-direction:row;
+    padding-top: 30px;
+    padding-bottom: 80px;
+}
+#churchshirt{
+    max-width:40%;
+    object-fit: contain;
+}
+footer{
+    background-color: #ec5c24;
+    display:flex;
+    padding-bottom: 40px;
+}
+.footinfo{
+    background-color: #ec5c24;
+}
